@@ -1,0 +1,45 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "",
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "latest",
+    "@material-ui/styles": "4.10.0",
+    "axios": "^0.20.0",
+    "material-table": "^1.69.0",
+    "material-ui-dropzone": "^3.4.0",
+    "prismjs": "^1.21.0",
+    "prop-types": "^15.7.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-json-pretty": "^2.2.0",
+    "react-json-view": "^1.19.1",
+    "react-router-dom": "^5.2.0",
+    "react-simple-code-editor": "^0.11.0",
+    "react-swipeable-views": "^0.13.9"
+  },
+  "keywords": [],
+  "name": "kamlesh-api-console",
+  "version": "0.0.101",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
